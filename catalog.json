@@ -1,0 +1,112 @@
+{
+    "version": 1,
+    "books": [
+        {
+            "id": "adabi_fethullah",
+            "title": "Adabı Fethullah",
+            "author": "HZ. ŞEYH YAHYA EL ABBASİ (KS)",
+            "description": "Edep, ahlak ve tasavvufi ölçüler üzerine.",
+            "coverAsset": "assets/covers/adabi_fethullah.png",
+            "type": "single",
+            "file": {
+                "name": "ADABI_Fethullah.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/ADABI.Fethullah.01-88.pdf"
+            }
+        },
+        {
+            "id": "anne_baba_evlat",
+            "title": "Anne Baba ve Evlat Hakları",
+            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "description": "Aile içi haklar ve sorumluluklar.",
+            "coverAsset": "assets/covers/anne_baba_evlat.png",
+            "type": "single",
+            "file": {
+                "name": "Anne_Baba_ve_Evlat_Haklari.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Anne.Baba.ve.Evlat.Haklari.Icerik1-112.pdf"
+            }
+        },
+        {
+            "id": "hidayet_amel",
+            "title": "Hidayet ve Amel Yolu",
+            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "description": "İman, amel ve istikamet üzerine.",
+            "coverAsset": "assets/covers/hidayet_amel.png",
+            "type": "single",
+            "file": {
+                "name": "Hidayet_ve_Amel_Yolu.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Hidayet.ve.Amel.Yolu.Icerik1-80.pdf"
+            }
+        },
+        {
+            "id": "islam_akaidi",
+            "title": "İslam Akaidi",
+            "author": "HZ. ŞEYH YAHYA EL ABBASİ (KS)",
+            "description": "İslam inancının temel esasları.",
+            "coverAsset": "assets/covers/islam_akaidi.png",
+            "type": "single",
+            "file": {
+                "name": "Islam_Akaidi.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/islam.Akaidi.01-64.pdf"
+            }
+        },
+        {
+            "id": "resulullah_vasiyetler",
+            "title": "Resulullah’tan Vasiyetler",
+            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "description": "Peygamber Efendimiz'den öğütler.",
+            "coverAsset": "assets/covers/resulullah_vasiyetler.png",
+            "type": "single",
+            "file": {
+                "name": "Resulullahtan_Vasiyetler.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Hz.Rasulullahtan.vasiyetler.icerik.1-88.Y.pdf"
+            }
+        },
+        {
+            "id": "tevbe_tasavvuf",
+            "title": "Tevbe ve Tasavvuf",
+            "author": "Süleyman TAŞ",
+            "description": "Tevbe, nefis terbiyesi ve tasavvuf.",
+            "coverAsset": "assets/covers/tevbe_tasavvuf.png",
+            "type": "single",
+            "file": {
+                "name": "Tevbe_Tasavvuf.pdf",
+                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/001-112.orj.pdf"
+            }
+        },
+        {
+            "id": "sohbet_gulseni",
+            "title": "Sohbet Gülşeni",
+            "author": "Şeyh Yahya el-Abbasi",
+            "description": "5 ciltten oluşan sohbet ve irfan külliyatı.",
+            "coverAsset": "assets/covers/sohbet_gulseni.png",
+            "type": "multi",
+            "volumes": [
+                {
+                    "id": "sohbet_gulseni_cilt_1",
+                    "title": "Cilt 1",
+                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.1.cild.pdf"
+                },
+                {
+                    "id": "sohbet_gulseni_cilt_2",
+                    "title": "Cilt 2",
+                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.2.cild.pdf"
+                },
+                {
+                    "id": "sohbet_gulseni_cilt_3",
+                    "title": "Cilt 3",
+                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.3.cild.pdf"
+                },
+                {
+                    "id": "sohbet_gulseni_cilt_4",
+                    "title": "Cilt 4",
+                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.4.cild.pdf"
+                },
+                {
+                    "id": "sohbet_gulseni_cilt_5",
+                    "title": "Cilt 5",
+                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.5.cild.pdf"
+                }
+            ]
+        }
+    ]
+}
