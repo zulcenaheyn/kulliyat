@@ -10,31 +10,31 @@
             "type": "single",
             "file": {
                 "name": "ADABI_Fethullah.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/ADABI.Fethullah.01-88.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/ADABI.Fethullah.01-88.pdf"
             }
         },
         {
             "id": "anne_baba_evlat",
             "title": "Anne Baba ve Evlat Hakları",
-            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "author": "AHMET İSA AŞUR",
             "description": "Aile içi haklar ve sorumluluklar.",
             "coverAsset": "assets/covers/anne_baba_evlat.png",
             "type": "single",
             "file": {
                 "name": "Anne_Baba_ve_Evlat_Haklari.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Anne.Baba.ve.Evlat.Haklari.Icerik1-112.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/Anne.Baba.ve.Evlat.Haklari.Icerik1-112.pdf"
             }
         },
         {
             "id": "hidayet_amel",
             "title": "Hidayet ve Amel Yolu",
-            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "author": "AHMET İZZETTİN EL-BEYÂNUNİ",
             "description": "İman, amel ve istikamet üzerine.",
             "coverAsset": "assets/covers/hidayet_amel.png",
             "type": "single",
             "file": {
                 "name": "Hidayet_ve_Amel_Yolu.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Hidayet.ve.Amel.Yolu.Icerik1-80.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/Hidayet.ve.Amel.Yolu.Icerik1-80.pdf"
             }
         },
         {
@@ -46,37 +46,37 @@
             "type": "single",
             "file": {
                 "name": "Islam_Akaidi.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/islam.Akaidi.01-64.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/islam.Akaidi.01-64.pdf"
             }
         },
         {
             "id": "resulullah_vasiyetler",
             "title": "Resulullah’tan Vasiyetler",
-            "author": "AHMET İZZETTİN EL-BEYÂNUNİ OSMANİYE CAMİİ HATİBİ HALEP",
+            "author": "HAMZA MUHAMMED SALİH HACCÂC",
             "description": "Peygamber Efendimiz'den öğütler.",
             "coverAsset": "assets/covers/resulullah_vasiyetler.png",
             "type": "single",
             "file": {
                 "name": "Resulullahtan_Vasiyetler.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Hz.Rasulullahtan.vasiyetler.icerik.1-88.Y.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/Hz.Rasulullahtan.vasiyetler.icerik.1-88.Y.pdf"
             }
         },
         {
             "id": "tevbe_tasavvuf",
             "title": "Tevbe ve Tasavvuf",
-            "author": "Süleyman TAŞ",
+            "author": "SÜLEYMAN TAŞ",
             "description": "Tevbe, nefis terbiyesi ve tasavvuf.",
             "coverAsset": "assets/covers/tevbe_tasavvuf.png",
             "type": "single",
             "file": {
                 "name": "Tevbe_Tasavvuf.pdf",
-                "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/001-112.orj.pdf"
+                "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/oku/001-112.orj.pdf"
             }
         },
         {
             "id": "sohbet_gulseni",
             "title": "Sohbet Gülşeni",
-            "author": "Şeyh Yahya el-Abbasi",
+            "author": "HZ. ŞEYH YAHYA EL ABBASİ (KS)",
             "description": "5 ciltten oluşan sohbet ve irfan külliyatı.",
             "coverAsset": "assets/covers/sohbet_gulseni.png",
             "type": "multi",
@@ -84,27 +84,27 @@
                 {
                     "id": "sohbet_gulseni_cilt_1",
                     "title": "Cilt 1",
-                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.1.cild.pdf"
+                    "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/v1.0/Sohbet.Gulseni.Kitabi.1.cild.pdf"
                 },
                 {
                     "id": "sohbet_gulseni_cilt_2",
                     "title": "Cilt 2",
-                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.2.cild.pdf"
+                    "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/v1.0/Sohbet.Gulseni.Kitabi.2.cild.pdf"
                 },
                 {
                     "id": "sohbet_gulseni_cilt_3",
                     "title": "Cilt 3",
-                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.3.cild.pdf"
+                    "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/v1.0/Sohbet.Gulseni.Kitabi.3.cild.pdf"
                 },
                 {
                     "id": "sohbet_gulseni_cilt_4",
                     "title": "Cilt 4",
-                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.4.cild.pdf"
+                    "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/v1.0/Sohbet.Gulseni.Kitabi.4.cild.pdf"
                 },
                 {
                     "id": "sohbet_gulseni_cilt_5",
                     "title": "Cilt 5",
-                    "url": "https://github.com/MustafaHakanMetin/mehaz-oku-library/releases/download/v1.0/Sohbet.Gulseni.Kitabi.5.cild.pdf"
+                    "url": "https://github.com/zulcenaheyn/kulliyat/releases/download/v1.0/Sohbet.Gulseni.Kitabi.5.cild.pdf"
                 }
             ]
         }
